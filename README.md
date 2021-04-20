@@ -8,6 +8,8 @@
 - 🥅 2021 Goal: Launch an App to assist in **Diabetes Care**
  
 - 💬 Ask me about **Microcontrollers**, **Hardware Design**, **Biomedical Instrumentation**
+
+- :speech_balloon: Talk to me in **English**, **Portuguese** or **French** (With a bit of patience in the latter)
  
 - ⚡ Fun fact: I brew beer 🍺 at home
 
