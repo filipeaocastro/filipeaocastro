@@ -1,17 +1,15 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Filipe Oliveira</h1>
-<h3 align="center">Biomedical Engineer | Developer | Willing to improve people's lives</h3>
+<h3 align="center">Biomedical Engineer</h3>
 
-- 💼 Looking for job opportunities in **Embedded Programming**
+- 🏠 City of São Paulo, Brazil
 
-- 📱 Currently learning **Mobile Development** and **IoT**
+- 💼 Software Engineer at the **Heart Institute** (InCor) - Clinics Hospital of the University of São Paulo Medical School
 
-- 🥅 2021 Goal: Launch an App to assist in **Diabetes Care**
- 
-- 💬 Ask me about **Microcontrollers**, **Hardware Design**, **Biomedical Instrumentation**
+- 📱 Currently working with **Signal Processing** and **Deep Learning**
 
 - :speech_balloon: Talk to me in **English**, **Portuguese** or **French** (With a bit of patience in the latter)
  
-- ⚡ Fun fact: I brew beer 🍺 at home
+- ⚡ Fun fact: I'm passionate about Archery 🏹
 
 ### Places you can reach me :mag_right:: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Filipe%20Oliveira-0a66c2?style=flat&logo=Linkedin&logoColor=0a66c2&labelColor=white&link=https://www.linkedin.com/in/filipeac-oliveira/)](https://www.linkedin.com/in/filipeac-oliveira/) 
