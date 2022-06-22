@@ -1,13 +1,14 @@
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Filipe Oliveira</h1>
+<!-- <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Filipe Oliveira</h1> -->
+<h2 align="center"> Hi, I'm Filipe Oliveira</h2>
 <h3 align="center">Biomedical Engineer</h3>
 
 - 🏠 City of São Paulo, Brazil
 
 - 💼 Software Engineer at the **Heart Institute** (InCor) - Clinics Hospital of the University of São Paulo Medical School
 
-- 📱 Currently working with **Signal Processing** and **Deep Learning**
+- 📱 Currently working with **Signal Processing**, **Deep Learning**, and a bit of **Android (Java)**
 
-- :speech_balloon: Talk to me in **English**, **Portuguese** or **French** (With a bit of patience in the latter)
+- :speech_balloon: Talk to me in **English**, **Portuguese** or **French** (Be patient in the latter)
  
 - ⚡ Fun fact: I'm passionate about Archery 🏹
 
